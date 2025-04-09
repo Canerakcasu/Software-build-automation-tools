@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< Updated upstream
       <module fileurl="file://$PROJECT_DIR$/.idea/Software-build-automation-tools.iml" filepath="$PROJECT_DIR$/.idea/Software-build-automation-tools.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/advanced-git-lab.iml" filepath="$PROJECT_DIR$/.idea/advanced-git-lab.iml" />
+>>>>>>> Stashed changes
     </modules>
   </component>
 </project>
